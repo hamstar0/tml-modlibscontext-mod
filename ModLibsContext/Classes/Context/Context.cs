@@ -51,7 +51,7 @@ namespace ModLibsContext.Classes.Context {
 		public ISet<VanillaEventFlag> Events = null;
 
 		/// <summary>
-		/// Progress point of the game (via. GameInfoHelpers.GetVanillaProgress()) that must exist for the current context to apply.
+		/// Progress point of the game (via. GameInfoLibraries.GetVanillaProgress()) that must exist for the current context to apply.
 		/// Leave null to skip.
 		/// </summary>
 		public ISet<string> Progress = null;
