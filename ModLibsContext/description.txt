@@ -1,1 +1,3 @@
 Supplies classes for defining a concept of a "given context" within the game. Supports ModConfig use.
+
+Note: This is a WIP mod.
